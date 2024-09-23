@@ -1,6 +1,5 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import { Card,Footer,Header } from '../components';
 import { MovieList,MovieDetail,PageNotFound,Search } from '../pages';
 
 export const AllRoutes = () => {
